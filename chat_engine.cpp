@@ -12,7 +12,7 @@ using json = nlohmann::json;
 
 std::map<std::string, std::string> responses;
 std::string userName = "";
-const std::string weatherApiKey = "bc25195ef6adfd276d8ac87fc8929090";
+const std::string weatherApiKey = "Enter Your API Key";
 
 size_t WriteCallback(void* contents, size_t size, size_t nmemb, std::string* output) {
     size_t totalSize = size * nmemb;
