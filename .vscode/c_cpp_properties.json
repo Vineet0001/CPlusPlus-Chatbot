@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "MSYS2 MinGW 64-bit",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/acer/OneDrive/Documents/MSYS2 software/mingw64/include",
+        "C:/Users/acer/OneDrive/Documents/MSYS2 software/mingw64/include/c++/15.1.0",
+        "C:/Users/acer/OneDrive/Documents/MSYS2 software/mingw64/include/c++/15.1.0/x86_64-w64-mingw32",
+        "C:/Users/acer/OneDrive/Documents/MSYS2 software/mingw64/lib/gcc/x86_64-w64-mingw32/15.1.0/include"
+      ],
+      "defines": [],
+      "compilerPath": "C:/Users/acer/OneDrive/Documents/MSYS2 software/mingw64/bin/g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}

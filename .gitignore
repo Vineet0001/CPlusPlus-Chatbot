@@ -1,0 +1,5 @@
+secrets.h
+*.exe
+*.o
+*.obj
+*.log

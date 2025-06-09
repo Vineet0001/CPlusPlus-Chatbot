@@ -1,0 +1,824 @@
+[User] (Fri Jun 06 12:30:44 2025
+): hi
+[Bot] (Fri Jun 06 12:30:44 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Fri Jun 06 12:30:52 2025
+): how are you
+[Bot] (Fri Jun 06 12:30:52 2025
+): I'm doing great, thanks!
+------------------------------------
+[User] (Fri Jun 06 12:31:05 2025
+): what time is it
+[Bot] (Fri Jun 06 12:31:05 2025
+): Fri Jun 06 12:30:38 2025
+
+------------------------------------
+[User] (Fri Jun 06 12:31:13 2025
+): date?
+[Bot] (Fri Jun 06 12:31:13 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Fri Jun 06 12:31:22 2025
+): what date is it
+[Bot] (Fri Jun 06 12:31:22 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Fri Jun 06 12:42:28 2025
+): cd "c:\Users\acer\OneDrive\Desktop\SimpleChatbot\" ; if ($?) { g++ main.cpp -o main } ; if ($?) { .\main }
+[Bot] (Fri Jun 06 12:42:28 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Fri Jun 06 12:42:34 2025
+): hi
+[Bot] (Fri Jun 06 12:42:34 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Fri Jun 06 12:43:14 2025
+): 100/2
+[Bot] (Fri Jun 06 12:43:14 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Fri Jun 06 12:43:37 2025
+): 6+9
+[Bot] (Fri Jun 06 12:43:37 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Fri Jun 06 12:43:47 2025
+): 
+[Bot] (Fri Jun 06 12:43:47 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Fri Jun 06 12:44:51 2025
+): hi
+[Bot] (Fri Jun 06 12:44:51 2025
+): Hi there! How can I help you today?
+------------------------------------
+[User] (Fri Jun 06 12:44:57 2025
+): 100/2
+[Bot] (Fri Jun 06 12:44:57 2025
+): The answer is: 50.000000
+------------------------------------
+[User] (Fri Jun 06 12:45:04 2025
+): nyc
+[Bot] (Fri Jun 06 12:45:04 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Fri Jun 06 12:45:10 2025
+): 4*3
+[Bot] (Fri Jun 06 12:45:10 2025
+): The answer is: 12.000000
+------------------------------------
+[User] (Fri Jun 06 12:45:19 2025
+): bye
+[Bot] (Fri Jun 06 12:45:19 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Fri Jun 06 12:57:01 2025
+): my name is vineet
+[Bot] (Fri Jun 06 12:57:01 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Fri Jun 06 12:58:27 2025
+): SimpleChatbot/.vscode/c_cpp_properties.json
+[Bot] (Fri Jun 06 12:58:27 2025
+): The answer is: 0.000000
+------------------------------------
+[User] (Sat Jun 07 12:02:43 2025
+): hi
+[Bot] (Sat Jun 07 12:02:43 2025
+): Hi there! How can I help you today?
+------------------------------------
+[User] (Sat Jun 07 12:02:51 2025
+): my name is vineet
+[Bot] (Sat Jun 07 12:02:51 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 12:02:58 2025
+): what is my name
+[Bot] (Sat Jun 07 12:02:58 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 12:03:11 2025
+): bye
+[Bot] (Sat Jun 07 12:03:11 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sat Jun 07 12:13:06 2025
+): hi
+[Bot] (Sat Jun 07 12:13:06 2025
+): Hi there! How can I help you today?
+------------------------------------
+[User] (Sat Jun 07 12:13:13 2025
+): my name is vineet
+[Bot] (Sat Jun 07 12:13:13 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 12:13:19 2025
+): what is my name
+[Bot] (Sat Jun 07 12:13:19 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 12:13:23 2025
+): bye
+[Bot] (Sat Jun 07 12:13:23 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sat Jun 07 13:16:07 2025
+): hi
+[Bot] (Sat Jun 07 13:16:07 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sat Jun 07 13:16:12 2025
+): my name is vineet
+[Bot] (Sat Jun 07 13:16:12 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 13:16:19 2025
+): what is my name
+[Bot] (Sat Jun 07 13:16:19 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 13:16:25 2025
+): bye
+[Bot] (Sat Jun 07 13:16:25 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sat Jun 07 14:00:08 2025
+): hii
+[Bot] (Sat Jun 07 14:00:08 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sat Jun 07 14:00:16 2025
+): my name is vineet
+[Bot] (Sat Jun 07 14:00:16 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 14:00:25 2025
+): what is my name
+[Bot] (Sat Jun 07 14:00:25 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 14:00:33 2025
+): 2*9
+[Bot] (Sat Jun 07 14:00:33 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 14:00:39 2025
+): 2+2
+[Bot] (Sat Jun 07 14:00:39 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 14:00:46 2025
+): 2+2 = ?
+[Bot] (Sat Jun 07 14:00:46 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 14:00:49 2025
+): bye
+[Bot] (Sat Jun 07 14:00:49 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sat Jun 07 14:27:23 2025
+): hii
+[Bot] (Sat Jun 07 14:27:23 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sat Jun 07 14:27:37 2025
+): my name is vineet
+[Bot] (Sat Jun 07 14:27:37 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 14:27:47 2025
+): what you can do?
+[Bot] (Sat Jun 07 14:27:47 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sat Jun 07 14:28:07 2025
+): bye
+[Bot] (Sat Jun 07 14:28:07 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 19:26:46 2025
+): hi
+[Bot] (Sun Jun 08 19:26:46 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sun Jun 08 19:26:53 2025
+): my name is vineet
+[Bot] (Sun Jun 08 19:26:53 2025
+): Nice to meet you, vineet!
+------------------------------------
+[User] (Sun Jun 08 19:27:03 2025
+): what is my name
+[Bot] (Sun Jun 08 19:27:03 2025
+): You are vineet!
+------------------------------------
+[User] (Sun Jun 08 19:27:17 2025
+): 2*3
+[Bot] (Sun Jun 08 19:27:17 2025
+): The answer is: 6.000000
+------------------------------------
+[User] (Sun Jun 08 19:27:21 2025
+): 2/2
+[Bot] (Sun Jun 08 19:27:21 2025
+): The answer is: 1.000000
+------------------------------------
+[User] (Sun Jun 08 19:27:29 2025
+): what is my name
+[Bot] (Sun Jun 08 19:27:29 2025
+): You are vineet!
+------------------------------------
+[User] (Sun Jun 08 19:27:46 2025
+): what is 2*2*3
+[Bot] (Sun Jun 08 19:27:46 2025
+): The answer is: 0.000000
+------------------------------------
+[User] (Sun Jun 08 19:28:04 2025
+): no the answer is 12
+[Bot] (Sun Jun 08 19:28:04 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 19:28:11 2025
+): what you can do
+[Bot] (Sun Jun 08 19:28:11 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 19:28:16 2025
+): ok bye
+[Bot] (Sun Jun 08 19:28:16 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 19:28:19 2025
+): bye
+[Bot] (Sun Jun 08 19:28:19 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 20:33:03 2025
+): hi 
+[Bot] (Sun Jun 08 20:33:03 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sun Jun 08 20:33:07 2025
+): hello
+[Bot] (Sun Jun 08 20:33:07 2025
+): Hi there! How can I help you today?
+------------------------------------
+[User] (Sun Jun 08 20:33:13 2025
+): say my name
+[Bot] (Sun Jun 08 20:33:13 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 20:33:21 2025
+): what is my name
+[Bot] (Sun Jun 08 20:33:21 2025
+): I don't know your name yet. Tell me!
+------------------------------------
+[User] (Sun Jun 08 20:33:28 2025
+): vineet
+[Bot] (Sun Jun 08 20:33:28 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 20:33:34 2025
+): my name is vineet
+[Bot] (Sun Jun 08 20:33:34 2025
+): Nice to meet you, vineet!
+------------------------------------
+[User] (Sun Jun 08 21:22:59 2025
+): bye
+[Bot] (Sun Jun 08 21:22:59 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 21:44:03 2025
+): hi
+[Bot] (Sun Jun 08 21:44:03 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sun Jun 08 21:44:16 2025
+): weather in delhi
+[Bot] (Sun Jun 08 21:44:16 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sun Jun 08 21:44:28 2025
+): what is weather in delhi
+[Bot] (Sun Jun 08 21:44:28 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sun Jun 08 21:44:36 2025
+): my name is vineet
+[Bot] (Sun Jun 08 21:44:36 2025
+): Nice to meet you, vineet!
+------------------------------------
+[User] (Sun Jun 08 21:44:46 2025
+): bye
+[Bot] (Sun Jun 08 21:44:46 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 21:45:30 2025
+): hi
+[Bot] (Sun Jun 08 21:45:30 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sun Jun 08 21:45:38 2025
+): weather in delhi
+[Bot] (Sun Jun 08 21:45:38 2025
+): It's 38.410000°C in delhi with clear sky.
+------------------------------------
+[User] (Sun Jun 08 21:46:09 2025
+): what is my name
+[Bot] (Sun Jun 08 21:46:09 2025
+): I don't know your name yet. Tell me!
+------------------------------------
+[User] (Sun Jun 08 21:46:14 2025
+): vineet
+[Bot] (Sun Jun 08 21:46:14 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 21:46:21 2025
+): my name is vineet
+[Bot] (Sun Jun 08 21:46:21 2025
+): Nice to meet you, vineet!
+------------------------------------
+[User] (Sun Jun 08 21:46:29 2025
+): 5*9
+[Bot] (Sun Jun 08 21:46:29 2025
+): The answer is: 45.000000
+------------------------------------
+[User] (Sun Jun 08 21:46:34 2025
+): 5*9-2
+[Bot] (Sun Jun 08 21:46:34 2025
+): The answer is: 43.000000
+------------------------------------
+[User] (Sun Jun 08 21:46:44 2025
+): 2*2*2
+[Bot] (Sun Jun 08 21:46:44 2025
+): The answer is: 8.000000
+------------------------------------
+[User] (Sun Jun 08 21:46:47 2025
+): bye'
+[Bot] (Sun Jun 08 21:46:47 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 21:46:49 2025
+): bye
+[Bot] (Sun Jun 08 21:46:49 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 21:55:31 2025
+): tell me about c++
+[Bot] (Sun Jun 08 21:55:31 2025
+): The answer is: 0.000000
+------------------------------------
+[User] (Sun Jun 08 21:55:51 2025
+): what is machine learning
+[Bot] (Sun Jun 08 21:55:51 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sun Jun 08 21:55:59 2025
+): what you can do
+[Bot] (Sun Jun 08 21:55:59 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 21:56:01 2025
+): bye
+[Bot] (Sun Jun 08 21:56:01 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 21:58:30 2025
+): hi
+[Bot] (Sun Jun 08 21:58:30 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sun Jun 08 21:58:39 2025
+): what is python
+[Bot] (Sun Jun 08 21:58:39 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 21:58:57 2025
+): what is machine learning
+[Bot] (Sun Jun 08 21:58:57 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Sun Jun 08 21:59:03 2025
+): bye
+[Bot] (Sun Jun 08 21:59:03 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 22:09:35 2025
+): what is the weather in delhi
+[Bot] (Sun Jun 08 22:09:35 2025
+): I couldn't fetch info from Wikipedia.
+------------------------------------
+[User] (Sun Jun 08 22:09:47 2025
+): what is python
+[Bot] (Sun Jun 08 22:09:47 2025
+): I couldn't fetch info from Wikipedia.
+------------------------------------
+[User] (Sun Jun 08 22:10:03 2025
+): who is narendra modi
+[Bot] (Sun Jun 08 22:10:03 2025
+): I couldn't fetch info from Wikipedia.
+------------------------------------
+[User] (Sun Jun 08 22:10:11 2025
+): what is my name
+[Bot] (Sun Jun 08 22:10:11 2025
+): I don't know your name yet. Tell me!
+------------------------------------
+[User] (Sun Jun 08 22:10:15 2025
+): vineet
+[Bot] (Sun Jun 08 22:10:15 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 22:10:22 2025
+): my name is vineet
+[Bot] (Sun Jun 08 22:10:22 2025
+): Nice to meet you, vineet!
+------------------------------------
+[User] (Sun Jun 08 22:10:31 2025
+): tell me about python
+[Bot] (Sun Jun 08 22:10:31 2025
+): I couldn't fetch info from Wikipedia.
+------------------------------------
+[User] (Sun Jun 08 22:10:35 2025
+): byr
+[Bot] (Sun Jun 08 22:10:35 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 22:10:36 2025
+): bye
+[Bot] (Sun Jun 08 22:10:36 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 22:25:53 2025
+): what is the weather in delhi
+[Bot] (Sun Jun 08 22:25:53 2025
+): I couldn't fetch info from Wikipedia.
+------------------------------------
+[User] (Sun Jun 08 22:26:09 2025
+): what is python
+[Bot] (Sun Jun 08 22:26:09 2025
+): I couldn't fetch info from Wikipedia.
+------------------------------------
+[User] (Sun Jun 08 22:26:26 2025
+): tell me about python
+[Bot] (Sun Jun 08 22:26:26 2025
+): I couldn't fetch info from Wikipedia.
+------------------------------------
+[User] (Sun Jun 08 22:26:30 2025
+): bye
+[Bot] (Sun Jun 08 22:26:30 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 22:35:15 2025
+): what is python
+[Bot] (Sun Jun 08 22:35:15 2025
+): I couldn't fetch info from Wikipedia.
+------------------------------------
+[User] (Sun Jun 08 22:35:29 2025
+): what is time
+[Bot] (Sun Jun 08 22:35:29 2025
+): I couldn't fetch info from Wikipedia.
+------------------------------------
+[User] (Sun Jun 08 22:35:31 2025
+): bye
+[Bot] (Sun Jun 08 22:35:31 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Sun Jun 08 22:42:21 2025
+): what is weather
+[Bot] (Sun Jun 08 22:42:21 2025
+): Weather is the state of the atmosphere, describing for example the degree to which it is hot or cold, wet or dry, calm or stormy, clear or cloudy. On Earth, most weather phenomena occur in the lowest layer of the planet's atmosphere, the troposphere, just below the stratosphere. Weather refers to day-to-day temperature, precipitation, and other atmospheric conditions, whereas climate is the term for the averaging of atmospheric conditions over longer periods of time. When used without qualification, "weather" is generally understood to mean the weather of Earth.
+------------------------------------
+[User] (Sun Jun 08 22:42:39 2025
+): what is weather in delhi today
+[Bot] (Sun Jun 08 22:42:39 2025
+): Sorry, I couldn't find information on that.
+------------------------------------
+[User] (Sun Jun 08 22:42:53 2025
+): what is python
+[Bot] (Sun Jun 08 22:42:53 2025
+): Python may refer to:
+------------------------------------
+[User] (Sun Jun 08 22:43:06 2025
+): the coding language
+[Bot] (Sun Jun 08 22:43:06 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Sun Jun 08 22:43:18 2025
+): what is python language
+[Bot] (Sun Jun 08 22:43:18 2025
+): Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+------------------------------------
+[User] (Sun Jun 08 22:43:33 2025
+): bye
+[Bot] (Sun Jun 08 22:43:33 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Mon Jun 09 11:16:49 2025
+): hi
+[Bot] (Mon Jun 09 11:16:49 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Mon Jun 09 11:16:56 2025
+): my name is vineet
+[Bot] (Mon Jun 09 11:16:56 2025
+): Nice to meet you, vineet!
+------------------------------------
+[User] (Mon Jun 09 11:17:01 2025
+): what is my name
+[Bot] (Mon Jun 09 11:17:01 2025
+): You are vineet!
+------------------------------------
+[User] (Mon Jun 09 11:17:11 2025
+): what is the time
+[Bot] (Mon Jun 09 11:17:11 2025
+): Mon Jun 09 11:17:11 2025
+
+------------------------------------
+[User] (Mon Jun 09 11:17:23 2025
+): what is the weather in delhi
+[Bot] (Mon Jun 09 11:17:23 2025
+): It's 41.279999°C in delhi with clear sky.
+------------------------------------
+[User] (Mon Jun 09 11:17:32 2025
+): tell me about india
+[Bot] (Mon Jun 09 11:17:32 2025
+): India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country since 2023; and, since its independence in 1947, the world's most populous democracy. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar, and Indonesia.
+------------------------------------
+[User] (Mon Jun 09 11:18:17 2025
+): who won the war between inida vs pakistan in 2025
+[Bot] (Mon Jun 09 11:18:17 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Mon Jun 09 11:18:33 2025
+): who won the war in 2025
+[Bot] (Mon Jun 09 11:18:33 2025
+): I'm not sure I understand.
+------------------------------------
+[User] (Mon Jun 09 11:18:44 2025
+): what is python
+[Bot] (Mon Jun 09 11:18:44 2025
+): Python may refer to:
+------------------------------------
+[User] (Mon Jun 09 11:18:56 2025
+): what is python language
+[Bot] (Mon Jun 09 11:18:56 2025
+): Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+------------------------------------
+[User] (Mon Jun 09 11:19:04 2025
+): bye
+[Bot] (Mon Jun 09 11:19:04 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Mon Jun 09 11:42:05 2025
+): hi
+[Bot] (Mon Jun 09 11:42:05 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Mon Jun 09 11:42:10 2025
+): my name is vineet
+[Bot] (Mon Jun 09 11:42:10 2025
+): Nice to meet you, vineet!
+------------------------------------
+[User] (Mon Jun 09 11:42:15 2025
+): what is my nam
+[Bot] (Mon Jun 09 11:42:15 2025
+): Sorry, I couldn't find information on that.
+------------------------------------
+[User] (Mon Jun 09 11:42:20 2025
+): what is my name
+[Bot] (Mon Jun 09 11:42:20 2025
+): You are vineet!
+------------------------------------
+[User] (Mon Jun 09 11:42:26 2025
+): what is time
+[Bot] (Mon Jun 09 11:42:26 2025
+): Mon Jun 09 11:42:26 2025
+
+------------------------------------
+[User] (Mon Jun 09 11:42:33 2025
+): weather in delhi
+[Bot] (Mon Jun 09 11:42:33 2025
+): It's 41.290001°C in delhi with clear sky.
+------------------------------------
+[User] (Mon Jun 09 11:42:49 2025
+): explain machine learning
+[Bot] (Mon Jun 09 11:42:49 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Mon Jun 09 11:43:00 2025
+): what is python programing
+[Bot] (Mon Jun 09 11:43:00 2025
+): Sorry, I couldn't find information on that.
+------------------------------------
+[User] (Mon Jun 09 11:43:15 2025
+): why is sky blue
+[Bot] (Mon Jun 09 11:43:15 2025
+): GPT did not return a response.
+------------------------------------
+[User] (Mon Jun 09 11:43:39 2025
+): who won the war between india and pakistan in 2025
+[Bot] (Mon Jun 09 11:43:39 2025
+): GPT did not return a response.
+------------------------------------
+[User] (Mon Jun 09 11:43:56 2025
+): what is python
+[Bot] (Mon Jun 09 11:43:56 2025
+): Python may refer to:
+------------------------------------
+[User] (Mon Jun 09 11:44:05 2025
+): what is python language
+[Bot] (Mon Jun 09 11:44:05 2025
+): Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+------------------------------------
+[User] (Mon Jun 09 11:44:18 2025
+): what is python language
+[Bot] (Mon Jun 09 11:44:18 2025
+): Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+------------------------------------
+[User] (Mon Jun 09 11:44:25 2025
+): who won the war between india and pakistan in 2025
+[Bot] (Mon Jun 09 11:44:25 2025
+): GPT did not return a response.
+------------------------------------
+[User] (Mon Jun 09 11:44:35 2025
+): what 4-5-5-3*5
+[Bot] (Mon Jun 09 11:44:35 2025
+): The answer is: 0.000000
+------------------------------------
+[User] (Mon Jun 09 11:44:47 2025
+): ok
+[Bot] (Mon Jun 09 11:44:47 2025
+): GPT did not return a response.
+------------------------------------
+[User] (Mon Jun 09 11:44:49 2025
+): bye
+[Bot] (Mon Jun 09 11:44:49 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Mon Jun 09 12:05:03 2025
+): my name is vineet
+[Bot] (Mon Jun 09 12:05:03 2025
+): Nice to meet you, vineet!
+------------------------------------
+[User] (Mon Jun 09 12:05:10 2025
+): what is my name
+[Bot] (Mon Jun 09 12:05:10 2025
+): You are vineet!
+------------------------------------
+[User] (Mon Jun 09 12:05:22 2025
+): what is python programing
+[Bot] (Mon Jun 09 12:05:22 2025
+): Sorry, I couldn't find information on that.
+------------------------------------
+[User] (Mon Jun 09 12:05:30 2025
+): what is python
+[Bot] (Mon Jun 09 12:05:30 2025
+): Python may refer to:
+------------------------------------
+[User] (Mon Jun 09 12:05:42 2025
+): what is python language
+[Bot] (Mon Jun 09 12:05:42 2025
+): Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+------------------------------------
+[User] (Mon Jun 09 12:05:53 2025
+): what is python programing
+[Bot] (Mon Jun 09 12:05:53 2025
+): Sorry, I couldn't find information on that.
+------------------------------------
+[User] (Mon Jun 09 12:06:13 2025
+): what is chatgpt
+[Bot] (Mon Jun 09 12:06:13 2025
+): ChatGPT is a generative artificial intelligence chatbot developed by the American company OpenAI and launched in 2022. It uses large language models (LLMs) such as GPT-4o to generate human-like conversational responses, enabling users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. It is credited with accelerating the AI boom, an ongoing period of rapid investment in and public attention to the field of artificial intelligence (AI). Some observers have raised concern about the potential of ChatGPT and similar programs to displace human intelligence, enable plagiarism, or fuel misinformation.
+------------------------------------
+[User] (Mon Jun 09 12:06:22 2025
+): what is weather today
+[Bot] (Mon Jun 09 12:06:22 2025
+): Failed to parse GPT response.
+------------------------------------
+[User] (Mon Jun 09 12:06:31 2025
+): what si weather in delhi
+[Bot] (Mon Jun 09 12:06:31 2025
+): It's 41.290001°C in delhi with clear sky.
+------------------------------------
+[User] (Mon Jun 09 12:06:39 2025
+): what is time
+[Bot] (Mon Jun 09 12:06:39 2025
+): Mon Jun 09 12:06:39 2025
+
+------------------------------------
+[User] (Mon Jun 09 12:06:52 2025
+): what is weather in ghaziabad
+[Bot] (Mon Jun 09 12:06:52 2025
+): It's 43.720001°C in ghaziabad with clear sky.
+------------------------------------
+[User] (Mon Jun 09 12:07:06 2025
+): why sky is blue
+[Bot] (Mon Jun 09 12:07:06 2025
+): Failed to parse GPT response.
+------------------------------------
+[User] (Mon Jun 09 12:07:12 2025
+): bye
+[Bot] (Mon Jun 09 12:07:12 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Mon Jun 09 12:17:17 2025
+): hi
+[Bot] (Mon Jun 09 12:17:17 2025
+): Hello! How can I assist?
+------------------------------------
+[User] (Mon Jun 09 12:17:23 2025
+): my name is vineet
+[Bot] (Mon Jun 09 12:17:23 2025
+): Nice to meet you, vineet!
+------------------------------------
+[User] (Mon Jun 09 12:17:35 2025
+): who is virat kohli?
+[Bot] (Mon Jun 09 12:17:35 2025
+): Virat Kohli is an Indian international cricketer who plays ODI cricket for the national team and is a former captain in all formats. He is a right-handed batsman and occasional right-arm medium pace bowler. Considered one of the greatest all-format batsmen in the history of cricket, he is called the King, the Chase Master, and the Run Machine for his skills, records and ability to lead his team to victory. Kohli is the highest run-scorer in the Indian Premier League, third in T20I, third in ODI, and third in international cricket. He has the most ODI centuries and second-most centuries in international cricket. Kohli is also the most successful Test captain of India with back-to-back Test mace wins and most victories in his tenure. He is the only batter to earn 900 rating points in all three formats.
+------------------------------------
+[User] (Mon Jun 09 12:17:51 2025
+): weather in mumbai
+[Bot] (Mon Jun 09 12:17:51 2025
+): It's 29.709999°C in mumbai with overcast clouds.
+------------------------------------
+[User] (Mon Jun 09 12:18:01 2025
+): weather in delhi and ghaziabad
+[Bot] (Mon Jun 09 12:18:01 2025
+): Could not fetch weather data.
+------------------------------------
+[User] (Mon Jun 09 12:18:13 2025
+): weather in delhi
+[Bot] (Mon Jun 09 12:18:13 2025
+): It's 42.910000°C in delhi with clear sky.
+------------------------------------
+[User] (Mon Jun 09 12:18:20 2025
+): weather in ghaziabad
+[Bot] (Mon Jun 09 12:18:20 2025
+): It's 43.290001°C in ghaziabad with clear sky.
+------------------------------------
+[User] (Mon Jun 09 12:18:34 2025
+): what is overfitting in machine learning
+[Bot] (Mon Jun 09 12:18:34 2025
+): Sorry, I couldn't find information on that.
+------------------------------------
+[User] (Mon Jun 09 12:18:56 2025
+): what is python programing
+[Bot] (Mon Jun 09 12:18:56 2025
+): Sorry, I couldn't find information on that.
+------------------------------------
+[User] (Mon Jun 09 12:19:05 2025
+): what is python language
+[Bot] (Mon Jun 09 12:19:05 2025
+): Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+------------------------------------
+[User] (Mon Jun 09 12:19:14 2025
+): what is python programing
+[Bot] (Mon Jun 09 12:19:14 2025
+): Sorry, I couldn't find information on that.
+------------------------------------
+[User] (Mon Jun 09 12:19:43 2025
+): what is python programing language
+[Bot] (Mon Jun 09 12:19:43 2025
+): Sorry, I couldn't find information on that.
+------------------------------------
+[User] (Mon Jun 09 12:20:05 2025
+): who won the war between india and pakistan in 2025]
+[Bot] (Mon Jun 09 12:20:05 2025
+): Failed to parse GPT response.
+------------------------------------
+[User] (Mon Jun 09 12:20:14 2025
+): who won the war between india and pakistan in 2025
+[Bot] (Mon Jun 09 12:20:14 2025
+): Failed to parse GPT response.
+------------------------------------
+[User] (Mon Jun 09 12:21:17 2025
+): bye
+[Bot] (Mon Jun 09 12:21:17 2025
+): Goodbye! Have a nice day!
+------------------------------------
+[User] (Mon Jun 09 12:26:24 2025
+): what is weather in delhi
+[Bot] (Mon Jun 09 12:26:24 2025
+): It's 43.080002°C in delhi with clear sky.
+------------------------------------
+[User] (Mon Jun 09 12:26:48 2025
+): what is python language
+[Bot] (Mon Jun 09 12:26:48 2025
+): Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+------------------------------------
+[User] (Mon Jun 09 12:27:00 2025
+): what is wekipedia
+[Bot] (Mon Jun 09 12:27:00 2025
+): Wikipedia is a free online encyclopedia that is written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and the wiki software MediaWiki. Founded by Jimmy Wales and Larry Sanger in 2001, Wikipedia has been hosted since 2003 by the Wikimedia Foundation, an American nonprofit organization funded mainly by donations from readers. Wikipedia is the largest and most-read reference work in history.
+------------------------------------
+[User] (Mon Jun 09 12:27:16 2025
+): why sky is blue
+[Bot] (Mon Jun 09 12:27:16 2025
+): Failed to parse GPT response.
+------------------------------------
+[User] (Mon Jun 09 12:27:34 2025
+): bye
+[Bot] (Mon Jun 09 12:27:34 2025
+): Goodbye! Have a nice day!
+------------------------------------
