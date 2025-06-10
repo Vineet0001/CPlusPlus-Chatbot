@@ -2,7 +2,8 @@
 
 An advanced command-line AI chatbot built in C++ that combines local rule-based responses with real-time data from OpenWeather, Wikipedia, and OpenAI GPT.
 
-[![Watch the demo](https://youtu.be/wqwePB8FMj4?si=dbMX7-fYOHhZjwlM)
+[![Watch the demo](https://github.com/Vineet0001/CPlusPlus-Chatbot/tree/video)
+
 
 > 🔗 [GitHub Repo](https://github.com/Vineet0001/CPlusPlus-Chatbot) &nbsp; | &nbsp; 🧠 [Live ChatBot Demo](https://youtu.be/wqwePB8FMj4?si=dbMX7-fYOHhZjwlM)
 
