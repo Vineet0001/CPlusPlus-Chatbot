@@ -41,13 +41,13 @@ g++ -std=c++17 main.cpp chat_engine.cpp utils.cpp -lcurl -o chatbot
 ./chatbot
 
 ### 3. Example Commands:
-my name is vineet
-what is the weather in delhi
-who is virat kohli
-what is python
-what is 3 * 7
-what is time
-bye
+- my name is vineet
+- what is the weather in delhi
+- who is virat kohli
+- what is python
+- what is 3 * 7
+- what is time
+- bye
 
 
 ### 4. 📁 Project Structure
