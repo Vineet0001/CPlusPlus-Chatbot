@@ -31,16 +31,15 @@ An advanced command-line AI chatbot built in C++ that combines local rule-based 
 - OpenWeather & OpenAI API keys
 
 ### 1. Clone the repo
-```bash
+
 git clone https://github.com/Vineet0001/CPlusPlus-Chatbot.git
 cd CPlusPlus-Chatbot
 
-
-Compile and run:
+### 2. Compile and run:
 g++ -std=c++17 main.cpp chat_engine.cpp utils.cpp -lcurl -o chatbot
 ./chatbot
 
-Example Commands:
+### 3. Example Commands:
 my name is vineet
 what is the weather in delhi
 who is virat kohli
@@ -50,7 +49,7 @@ what is time
 bye
 
 
-📁 Project Structure
+### 4. 📁 Project Structure
 SimpleChatbot/
 ├── main.cpp
 ├── chat_engine.cpp
@@ -66,9 +65,8 @@ SimpleChatbot/
 └── .gitignore
 
 
-📜 License
+### 5. 📜 License
 MIT — Free to use, modify, and distribute with credit.
-
 
 
 
