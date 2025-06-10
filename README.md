@@ -13,7 +13,7 @@ An advanced command-line AI chatbot built in C++ that combines local rule-based 
 - ✅ Remembers your name
 - 🌐 Fetches real-time weather (OpenWeatherMap)
 - 📚 Wikipedia summaries
-- 🧠 Fallback to OpenAI GPT when local responses fail
+- 🧠 Fallback to OpenAI GPT when local responses - Integrate your API key
 - ➗ Handles math expressions
 - ⏰ Displays time/date
 - 📄 Chat logging in text file
