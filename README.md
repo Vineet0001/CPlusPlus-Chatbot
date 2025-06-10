@@ -34,3 +34,41 @@ An advanced command-line AI chatbot built in C++ that combines local rule-based 
 ```bash
 git clone https://github.com/Vineet0001/CPlusPlus-Chatbot.git
 cd CPlusPlus-Chatbot
+
+
+Compile and run:
+g++ -std=c++17 main.cpp chat_engine.cpp utils.cpp -lcurl -o chatbot
+./chatbot
+
+Example Commands:
+my name is vineet
+what is the weather in delhi
+who is virat kohli
+what is python
+what is 3 * 7
+what is time
+bye
+
+
+📁 Project Structure
+SimpleChatbot/
+├── main.cpp
+├── chat_engine.cpp
+├── chat_engine.h
+├── utils.cpp
+├── utils.h
+├── json.hpp
+├── responses.json
+├── secrets.h           # (excluded via .gitignore)
+├── cacert.pem
+├── chat_log.txt
+├── README.md
+└── .gitignore
+
+
+📜 License
+MIT — Free to use, modify, and distribute with credit.
+
+
+
+
