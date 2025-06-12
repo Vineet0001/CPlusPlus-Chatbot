@@ -4,6 +4,8 @@ An advanced command-line AI chatbot built in C++ that combines local rule-based 
 
 [![Watch the demo](https://github.com/Vineet0001/CPlusPlus-Chatbot/tree/video)
 
+https://github.com/user-attachments/assets/1e2ddfaa-bd9b-47f9-ad5a-45cf72720332
+
 
 > 🔗 [GitHub Repo](https://github.com/Vineet0001/CPlusPlus-Chatbot) &nbsp; | &nbsp; 🧠 [Live ChatBot Demo](https://youtu.be/wqwePB8FMj4?si=dbMX7-fYOHhZjwlM)
 
